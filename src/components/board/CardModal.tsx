@@ -41,7 +41,7 @@ export function CardModal({ card, onClose, onSave, onDelete }: Props) {
       title: title.trim(),
       desc: desc.trim() || undefined,
       priority,
-      due: due || undefined,
+      due: due ? new Date(due) : undefined,
       assignee: assignee.trim() || undefined,
       tags,
     });
