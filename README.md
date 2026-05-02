@@ -7,7 +7,7 @@
 
 ## 🚀 Live Demo
 
-**[taskflow-kanban.vercel.app](https://taskflow-kanban.vercel.app)**
+**[taskflow-kanban.vercel.app](https://taskflow-kr8fly0l2-ozgemelteminans-projects.vercel.app)**
 
 ---
 
